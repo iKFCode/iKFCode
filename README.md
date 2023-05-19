@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iKFCode&limit=5&theme=alduin&combine_all_yearly_contributions=true)
 
 ### 😂 LOL
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://ts1.cn.mm.bing.net/th/id/R-C.8963911064d2843a94289100e3568ae0?rik=YPHe3XoH%2b7K9AQ&riu=http%3a%2f%2fwww.probytes.net%2fwp-content%2fuploads%2f2018%2f01%2f4-1.png&ehk=FKKBqtVsJSZHKGUMKbt47qlKq3y5A7zG8q57W43g860%3d&risl=&pid=ImgRaw&r=0" width="512px"/>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PercyKF) 
